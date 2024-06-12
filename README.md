@@ -1,3 +1,5 @@
+<img src="https://s1.ezgif.com/tmp/ezgif-1-b7a6619cc9.gif" width="100%"/>
+
 # Movix
 Hey everyone, movix is a sevice for movie and TV show information website built with React, Redux and CSS!
 
@@ -16,3 +18,7 @@ You can check out the live demo of this website [here](https://movix-beta.vercel
 
 I would love to hear your feedback and suggestions on how I can improve my code and design.
 Thanks for your support!
+
+## Authors
+
+- [@abbackend](https://www.github.com/abbackend)
