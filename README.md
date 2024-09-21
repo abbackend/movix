@@ -7,7 +7,7 @@ This web app lets you explore and discover various movies and TV shows from diff
 You can also search for any movie or TV show you want and get detailed information about it. The website is responsive and has a sleek design that enhances the user experience.
 
 ## Live Demo
-You can check out the live demo of this website [here](https://movix-beta.vercel.app).
+You can check out the live demo of this website [here](https://abbackend-movix.vercel.app).
 
 ## Technologies Used
 - React.js
